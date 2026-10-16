@@ -1,0 +1,6 @@
+# scikit-learn harus cocok dengan pickle models/ec_recommender.pkl
+scikit-learn==1.9.0
+numpy>=2.0,<3
+pandas>=2.2
+firebase-admin==6.6.0
+requests==2.32.3
